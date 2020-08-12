@@ -1698,7 +1698,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 figure.highlight table::-webkit-scrollbar-thumb {
-  background: #1a2226;
+  background: #121212;
 }
 figure.highlight pre .deletion {
   color: #bf42bf;
@@ -1710,7 +1710,7 @@ figure.highlight pre .meta {
   color: #c792ea;
 }
 figure.highlight pre .comment {
-  color: #546e7a;
+  color: #969896;
 }
 figure.highlight pre .variable,
 figure.highlight pre .attribute,
@@ -1777,7 +1777,7 @@ figure.highlight pre .javascript .function {
   overflow: auto;
   margin: 0 0 1rem;
   padding: 0;
-  background: #263238;
+  background: #212121;
   color: #eff;
   line-height: 1.6;
 }
@@ -1832,7 +1832,7 @@ blockquote footer cite:before {
   border: none;
 }
 #article-container figure.highlight .line.marked {
-  background-color: rgba(128,203,196,0.125);
+  background-color: rgba(97,97,97,0.314);
 }
 #article-container figure.highlight table {
   display: block;
@@ -1868,7 +1868,7 @@ blockquote footer cite:before {
 #article-container figure.highlight .gutter pre {
   padding-right: 0.5rem;
   padding-left: 0.5rem;
-  background-color: #263238;
+  background-color: #212121;
   color: rgba(238,255,255,0.5);
   text-align: right;
 }
@@ -1882,7 +1882,7 @@ blockquote footer cite:before {
   overflow: hidden;
   width: 100%;
   height: 1.5rem;
-  background: #222d32;
+  background: #1c1c1c;
   color: rgba(238,255,255,0.8);
   font-size: 14px;
 }
