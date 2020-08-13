@@ -1,1 +1,3 @@
-"use strict";var xiaokang=new xkTool;xiaokang.cheatTitle();
+var xiaokang = new xkTool();
+xiaokang.cheatTitle();
+//xiaokang.footFish();
