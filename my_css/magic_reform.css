@@ -71,7 +71,7 @@
 
 /* 页脚footer##################################################################################################### */
 /* 渐变色滚动动画 */
-@-webkit-keyframes Gradient {
+/*@-webkit-keyframes Gradient {
     0% {
         background-position: 0 50%;
     }
@@ -128,6 +128,26 @@
 }
 #footer:before {
     background-color: rgba(0, 0, 0, 0);
+}*/
+
+#footer {
+    background: rgba(255,255,255,.15);
+    color: #000;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    backdrop-filter: saturate(100%) blur(5px)
+}
+
+#footer::before {
+    background: rgba(255,255,255,.15)
+}
+
+#footer #footer-wrap {
+    color: #333
+}
+
+#footer #footer-wrap a {
+    color: #333
 }
 
 
