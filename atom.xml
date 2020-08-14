@@ -6,7 +6,7 @@
   <link href="https://demon869.github.io/atom.xml" rel="self"/>
   
   <link href="https://demon869.github.io/"/>
-  <updated>2020-08-13T17:18:21.981Z</updated>
+  <updated>2020-08-14T07:23:27.514Z</updated>
   <id>https://demon869.github.io/</id>
   
   <author>
@@ -17,9 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Linux 文件管理</title>
+    <link href="https://demon869.github.io/2018/01/02/Linux%E5%9F%BA%E7%A1%80/Linux%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/"/>
+    <id>https://demon869.github.io/2018/01/02/Linux%E5%9F%BA%E7%A1%80/Linux%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/</id>
+    <published>2018-01-02T14:00:22.000Z</published>
+    <updated>2020-08-14T07:23:27.514Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="文件管理概述"><a href="#文件管理概述" class="headerlink" title="文件管理概述"></a>文件管理概述</h2><blockquote><p>说到Linux文件管理，首先我们需要了解的就是，我们要对文件做些什么事情？其实无非就是对一个文件进行、创建、复制、移动、查看、编辑、压缩、查找、删除、等等，例如: 当我们想修改系统的主机名称，是否应该知道文件在哪，才能去做对应的修改？</p></blockquote><h2 id="系统目录结构"><a href="#系统目录结构" class="headerlink" title="系统目录结构"></a>系统目录结构</h2><blockquote><p>计算机操作系统都是使用目录结构组织文件，具体来说就是在一个目录中存放子目录和文件，而在子目录中又会进一步存放子目录和文件，以此类推形成一个树状的文件结构，由于其结构很像一棵树的分支， 所以该结构又被称为”目录树“。Windows: 以多根的方式组织文件 C:\ D:\ ，Linux: 以单根的方式组织文件，如下图为Centos7的目录结构<br><img src= "https://cdn.jsdelivr.net/gh/demon869/HexoStaticFile@1.0.1/source/img/loading.gif" data-lazy-src="/.io//1.jpg" alt="1"></p></blockquote>]]></content>
+    
+    
+    <summary type="html">Linux 文件管理</summary>
+    
+    
+    
+    <category term="Linux基础" scheme="https://demon869.github.io/categories/Linux%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="Linux基础" scheme="https://demon869.github.io/tags/Linux%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux 系统命令行入门</title>
-    <link href="https://demon869.github.io/2018/01/01/Linux%E5%9F%BA%E7%A1%80/Shell%E5%9F%BA%E7%A1%80/"/>
-    <id>https://demon869.github.io/2018/01/01/Linux%E5%9F%BA%E7%A1%80/Shell%E5%9F%BA%E7%A1%80/</id>
+    <link href="https://demon869.github.io/2018/01/01/Linux%E5%9F%BA%E7%A1%80/Linux%E7%B3%BB%E7%BB%9F%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%85%A5%E9%97%A8/"/>
+    <id>https://demon869.github.io/2018/01/01/Linux%E5%9F%BA%E7%A1%80/Linux%E7%B3%BB%E7%BB%9F%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%85%A5%E9%97%A8/</id>
     <published>2018-01-01T05:00:22.000Z</published>
     <updated>2020-08-13T17:18:21.981Z</updated>
     
