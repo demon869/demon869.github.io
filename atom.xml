@@ -6,7 +6,7 @@
   <link href="https://www.demon-w.com/atom.xml" rel="self"/>
   
   <link href="https://www.demon-w.com/"/>
-  <updated>2020-08-23T03:05:49.272Z</updated>
+  <updated>2020-08-23T03:12:09.942Z</updated>
   <id>https://www.demon-w.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>posts</title>
+    <link href="https://www.demon-w.com/2020/08/23/Linux%E5%9F%BA%E7%A1%80/Linux%E7%89%B9%E6%AE%8A%E6%9D%83%E9%99%90/"/>
+    <id>https://www.demon-w.com/2020/08/23/Linux%E5%9F%BA%E7%A1%80/Linux%E7%89%B9%E6%AE%8A%E6%9D%83%E9%99%90/</id>
+    <published>2020-08-23T03:12:09.000Z</published>
+    <updated>2020-08-23T03:12:09.942Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Linux 基本权限</title>
