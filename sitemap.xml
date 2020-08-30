@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.demon-w.com/2018/01/15/Linux%E5%9F%BA%E7%A1%80/Linux%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1/</loc>
+    
+    <lastmod>2020-08-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.demon-w.com/2018/01/14/Linux%E5%9F%BA%E7%A1%80/Linux%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1/</loc>
     
     <lastmod>2020-08-30</lastmod>
@@ -181,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%A3%81%E7%9B%98%E7%AE%A1%E7%90%86/</loc>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E5%9F%BA%E6%9C%AC%E6%9D%83%E9%99%90/</loc>
     <lastmod>2020-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -195,7 +202,7 @@
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E5%9F%BA%E6%9C%AC%E6%9D%83%E9%99%90/</loc>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%A3%81%E7%9B%98%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -203,6 +210,13 @@
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2020-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1/</loc>
     <lastmod>2020-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
