@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.demon-w.com/2020/09/14/Web-DNS%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%AD%A3%E8%A7%A3%E5%9F%9F/</loc>
+    
+    <lastmod>2020-09-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/2018/02/02/Web-DNS%E6%8A%80%E6%9C%AF/BIND9%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%A6%E8%A7%A3/</loc>
+    
+    <lastmod>2020-09-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/2018/02/02/Web-DNS%E6%8A%80%E6%9C%AF/DNS%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0/</loc>
+    
+    <lastmod>2020-09-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.demon-w.com/2018/01/13/Linux%E5%9F%BA%E7%A1%80/Linux%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
     
     <lastmod>2020-08-30</lastmod>
@@ -137,15 +158,29 @@
 
   <url>
     <loc>https://www.demon-w.com/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://www.demon-w.com/tags/BIND9%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/tags/DNS%E6%9C%8D%E5%8A%A1%E6%A6%82%E8%BF%B0/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.demon-w.com/tags/Linux%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -153,120 +188,141 @@
 
   
   <url>
+    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E5%9F%BA%E6%9C%AC%E6%9D%83%E9%99%90/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/BIND9%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-ACL%E6%8E%A7%E5%88%B6/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/DNS%E6%9C%8D%E5%8A%A1%E6%A6%82%E8%BF%B0/</loc>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E6%96%87%E4%BB%B6%E7%BC%96%E8%BE%91/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-ACL%E6%8E%A7%E5%88%B6/</loc>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%89%B9%E6%AE%8A%E6%9D%83%E9%99%90/</loc>
-    <lastmod>2020-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E5%8E%8B%E7%BC%A9%E6%89%93%E5%8C%85/</loc>
-    <lastmod>2020-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%A3%81%E7%9B%98%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2020-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%B3%BB%E7%BB%9F%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%85%A5%E9%97%A8/</loc>
-    <lastmod>2020-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E6%96%87%E4%BB%B6%E6%9F%A5%E6%89%BE/</loc>
-    <lastmod>2020-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1/</loc>
-    <lastmod>2020-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E8%BE%93%E5%85%A5-%E8%BE%93%E5%87%BA%E9%87%8D%E5%AE%9A%E5%90%91/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E8%BD%AF%E4%B8%AD%E6%96%AD/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E5%8E%8B%E7%BC%A9%E6%89%93%E5%8C%85/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E6%96%87%E4%BB%B6%E6%9F%A5%E6%89%BE/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E5%9F%BA%E6%9C%AC%E6%9D%83%E9%99%90/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%B3%BB%E7%BB%9F%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E8%BE%93%E5%85%A5-%E8%BE%93%E5%87%BA%E9%87%8D%E5%AE%9A%E5%90%91/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%A3%81%E7%9B%98%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2020-08-30</lastmod>
+    <lastmod>2020-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
