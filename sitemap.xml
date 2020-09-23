@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.demon-w.com/2018/02/04/Web-DNS%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8F%8D%E8%A7%A3%E5%9F%9F/</loc>
+    <loc>https://www.demon-w.com/2018/01/11/Linux%E5%9F%BA%E7%A1%80/Linux%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</loc>
     
     <lastmod>2020-09-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/2018/01/11/Linux%E5%9F%BA%E7%A1%80/Linux%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</loc>
+    <loc>https://www.demon-w.com/2018/02/04/Web-DNS%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8F%8D%E8%A7%A3%E5%9F%9F/</loc>
     
     <lastmod>2020-09-23</lastmod>
     
@@ -286,14 +286,28 @@
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%AD%A3%E8%A7%A3%E5%9F%9F/</loc>
+    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/BIND9%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/BIND9%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/DNS%E6%9C%8D%E5%8A%A1%E6%A6%82%E8%BF%B0/</loc>
+    <lastmod>2020-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8F%8D%E8%A7%A3%E5%9F%9F/</loc>
+    <lastmod>2020-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%AD%A3%E8%A7%A3%E5%9F%9F/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -314,13 +328,6 @@
   </url>
   
   <url>
-    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/DNS%E6%9C%8D%E5%8A%A1%E6%A6%82%E8%BF%B0/</loc>
-    <lastmod>2020-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
@@ -329,13 +336,6 @@
   
   <url>
     <loc>https://www.demon-w.com/categories/Linux%E5%9F%BA%E7%A1%80/Linux-%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2020-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.demon-w.com/categories/Web-DNS%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8F%8D%E8%A7%A3%E5%9F%9F/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
